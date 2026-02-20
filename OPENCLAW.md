@@ -48,7 +48,7 @@ type = "imap"
 host = "outlook.office365.com"
 port = 993
 encryption.type = "tls"
-login = "xuliang.zhu@cern.ch"
+login = <EMAIL_ADDRESS>
 
 [accounts.cern.backend.auth]
 type = "oauth2"
@@ -65,7 +65,7 @@ type = "smtp"
 host = "smtp.office365.com"
 port = 587
 encryption.type = "start-tls"
-login = "xuliang.zhu@cern.ch"
+login = <EMAIL_ADDRESS>
 
 [accounts.cern.sender.auth]
 type = "oauth2"
