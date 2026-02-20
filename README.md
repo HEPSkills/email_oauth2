@@ -1,5 +1,7 @@
 # Setup instructions for CERN mail
 
+This is not a skill, it's scripts for setting up CERN mail for your agent.
+
 **Put me in**: `~/.openclaw/workspace`:
 
 ```bash
