@@ -20,7 +20,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-- **Initialize token retrieval command**: Ask User to run the following command and wait for the User's response.
+- **Ask Uesr to initialize token**: Ask User to run the following command and wait for the User's response.
 
 ```bash
 cd ~/.openclaw/workspace/email_oauth2
