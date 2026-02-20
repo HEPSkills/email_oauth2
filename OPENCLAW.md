@@ -33,7 +33,7 @@ python get_cern_token.py
 
 - **Get PATH_TO_PYTHON**: run `realapth ~/.openclaw/workspace/email_oauth2/venv/bin/python`
 - **Get PATH_TO_GET_CERN_TOKEN_PY**: run `realpath ~/.openclaw/workspace/email_oauth2/get_cern_token.py`
-- **Ask User for the email address**: for the CERN account
+- **Ask User for the CERN email address**: and wait for the User's response.
 - **Edit config file**: Add the following example config (Replace `<EMAIL_ADDRESS>`, `PATH_TO_PYTHON`, and `PATH_TO_GET_CERN_TOKEN_PY` with the actual values) to himalaya config file located at:
    - `~/.config/himalaya/config.toml` if in Linux
    - `~/Library/Application Support/himalaya/config.toml` if in MacOS
